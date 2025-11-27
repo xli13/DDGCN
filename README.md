@@ -14,7 +14,7 @@ Source code for "[A High Accuracy and Adaptive Anomaly Detection Model With Dual
 python main.py -d dataset -l labelrate
 ````
 * **dataset**: including cert, required.  
-* **labelrate**: including \[15, 30, 50\], required.  
+* **labelrate**: including \[15, 30, 60\], required.  
 
 e.g.  
 ````
@@ -35,8 +35,8 @@ cert/
 ├─cert4.2.edge: edge file.  
 ├─cert4.2.feature: feature file.  
 ├─cert4.2.label: label file.  
-├─testL/C.txt: test file. L/C, i.e., Label pre Class, L/C = 20, 40, 60.   
-├─trainL/C.txt: train file. L/C, i.e., Label pre Class, L/C = 20, 40, 60.  
+├─testL/C.txt: test file. L/C, i.e., Label pre Class, L/C = 15, 30, 60.   
+├─trainL/C.txt: train file. L/C, i.e., Label pre Class, L/C = 15, 30, 60.  
 ````
 # Parameter Settings
 
