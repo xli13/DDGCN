@@ -1,5 +1,5 @@
 # DD-GCN
-Source code for "[A High Accuracy and Adaptive Anomaly Detection Model With Dual-Domain Graph Convolutional Network for Insider Threat Detection]"
+Source code for "A High Accuracy and Adaptive Anomaly Detection Model With Dual-Domain Graph Convolutional Network for Insider Threat Detection"
 
 # Environment Settings 
 * python == 3.7   
