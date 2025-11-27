@@ -14,7 +14,7 @@ Source code for "[A High Accuracy and Adaptive Anomaly Detection Model With Dual
 python main.py -d dataset -l labelrate
 ````
 * **dataset**: including cert, required.  
-* **labelrate**: including \[20, 40, 60\], required.  
+* **labelrate**: including \[15, 30, 50\], required.  
 
 e.g.  
 ````
