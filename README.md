@@ -18,7 +18,7 @@ python main.py -d dataset -l labelrate
 
 e.g.  
 ````
-python main.py -d cert -l 20
+python main.py -d cert -l 15
 ````
 
 # Data
